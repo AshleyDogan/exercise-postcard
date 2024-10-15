@@ -41,7 +41,8 @@ body {
 }
 input {
 	border: none;
-	border-bottom: grey;
+	border-bottom: 1px solid grey;
+	margin-top: 5px;
 }
 .postcard-footer {
 	text-align: center;
